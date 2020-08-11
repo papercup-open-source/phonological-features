@@ -1,7 +1,7 @@
 # phonological-features
 
 Materials accompanying the paper 
-"Phonological features for 0-shot multilingual speech synthesis"
+["Phonological features for 0-shot multilingual speech synthesis"](https://arxiv.org/abs/2008.04107)
 (Staib et al. 2020, INTERSPEECH):
 * Mapping table from IPA to phonoligical features 
  (`ipa-to-phonefeats-mapping.py`, python dictionary derived from of [www.ipachart.com](www.ipachart.com))
